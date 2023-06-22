@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leslie</h1>
 <h3 align="center">A passionate frontend developer / CSS lover 💜 from Santiago de Chile</h3>
 
-- 🌱 I’m currently learning **Next JS, Node JS**
+- 🌱 I’m currently learning **Next JS 13**
 
 - 📝 I regularly write articles on [https://dev.to/dereemii](https://dev.to/dereemii)
 
