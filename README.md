@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **leshermira@gmail.com**
 
-- ⚡ Fun fact **I love Overwatch 😶‍🌫️ ¿Do you want to play?**
+- ⚡ Fun fact **I love Overwatch & Minecraft 😶‍🌫️ ¿Do you want to play?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
