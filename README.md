@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **leshermira@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wxan8dvNIwwJ6Xgf-Zc9b4YghBc_Vfjo/view?usp=sharing](https://drive.google.com/file/d/1wxan8dvNIwwJ6Xgf-Zc9b4YghBc_Vfjo/view?usp=sharing)
-
 - ⚡ Fun fact **I love Overwatch 😶‍🌫️ ¿Do you want to play?**
 
 <h3 align="left">Connect with me:</h3>
