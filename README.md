@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Next JS 13**
 
-- 📝 I regularly write articles on [https://dev.to/dereemii](https://dev.to/dereemii)
-
 - 💬 Ask me about **CSS, React, FrontEnd**
 
 - 📫 How to reach me **leshermira@gmail.com**
