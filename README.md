@@ -45,11 +45,11 @@ Frontend · Accessibility · Product · Web AI
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://dev.to/dereemii" target="blank">Dev.to</a> ·
-<a href="https://twitter.com/dereemii" target="blank">Twitter</a> ·
-<a href="https://linkedin.com/in/dereemii" target="blank">LinkedIn</a> ·
-<a href="https://www.behance.net/dereemii" target="blank">Behance</a>
-<a href="https://www.behance.net/dereemii](https://www.instagram.com/dereemii" target="blank">Instagram</a>
+<a href="https://dev.to/dereemii" target="_blank">Dev.to</a> ·
+<a href="https://twitter.com/dereemii" target="_blank">Twitter</a> ·
+<a href="https://linkedin.com/in/dereemii" target="_blank">LinkedIn</a> ·
+<a href="https://www.behance.net/dereemii" target="_blank">Behance</a> ·
+<a href="https://www.instagram.com/dereemii" target="_blank">Instagram</a>
 </p>
 
 ---
