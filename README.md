@@ -49,6 +49,7 @@ Frontend · Accessibility · Product · Web AI
 <a href="https://twitter.com/dereemii" target="blank">Twitter</a> ·
 <a href="https://linkedin.com/in/dereemii" target="blank">LinkedIn</a> ·
 <a href="https://www.behance.net/dereemii" target="blank">Behance</a>
+<a href="[https://www.behance.net/dereemii](https://www.instagram.com/dereemii)" target="blank">Instagram</a>
 </p>
 
 ---
